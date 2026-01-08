@@ -10,3 +10,7 @@ def show_tasks():
         print(i, t)
 
 print("Simple To-Do Application")
+def count_tasks():
+    print("Total tasks:", len(tasks))
+
+print("To-Do Application")
